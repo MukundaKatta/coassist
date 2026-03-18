@@ -73,6 +73,3 @@ lib/
 └── mock-data.ts          # Sample cobot data
 ```
 
-## License
-
-MIT
